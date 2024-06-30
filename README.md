@@ -1,2 +1,2 @@
 # ChandraReddi
-First Git Repositaory
+First Git Repository
